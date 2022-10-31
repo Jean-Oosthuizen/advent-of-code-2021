@@ -1,4 +1,3 @@
-from time import sleep
 f = open("folder/input1.txt","r")
 file = f.readlines()
 length = len(file)
